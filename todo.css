@@ -1,0 +1,29 @@
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  margin: 0;
+  background-color: #f8f9fa;
+}
+
+.todo-container {
+  width: 100%;
+  max-width: 700px;
+  background-color: white;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+
+    table td, table th {
+      vertical-align: middle;
+      text-align: center;
+    }
+    .table-success 
+    {
+      background-color: #d4edda !important;
+    }
+ 
