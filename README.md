@@ -22,7 +22,7 @@ JavaScript zur dynamischen Erstellung und Steuerung von HTML- und CSS-Elementen 
 
 🚀 Live-Demo
 
-👉 Projekt online ansehen (Link nach dem Veröffentlichen ersetzen)
+👉 [Hier ausprobieren](https://yuekselim.github.io/Aufgabeplaner/)
 
 ▶️ Verwendung
 
@@ -34,10 +34,10 @@ Sofort loslegen – keine zusätzliche Installation erforderlich
 
 📂 Projektstruktur
 
-├── index.html        → Hauptseite
-├── todos.js          → JavaScript-Logik
-├── style.css         → (optional) benutzerdefiniertes CSS
-└── README.md         → Projektbeschreibung
+- index.html        → Hauptseite
+- todos.js          → JavaScript-Logik
+- style.css         → (optional) benutzerdefiniertes CSS
+- README.md         → Projektbeschreibung
 
 📌 Hinweis
 
